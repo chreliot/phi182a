@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on PHI 182a</title>
-    <link>http://chreliot.github.io/phi182a/about/</link>
+    <link>https://chreliot.github.io/phi182a/about/</link>
     <description>Recent content in About on PHI 182a</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Jan 2020 21:09:49 -0400</lastBuildDate>
     
-	<atom:link href="http://chreliot.github.io/phi182a/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chreliot.github.io/phi182a/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

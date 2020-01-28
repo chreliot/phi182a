@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>info on PHI 182a</title>
-    <link>http://chreliot.github.io/phi182a/tags/info/</link>
+    <link>https://chreliot.github.io/phi182a/tags/info/</link>
     <description>Recent content in info on PHI 182a</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Jan 2020 19:55:28 -0400</lastBuildDate>
     
-	<atom:link href="http://chreliot.github.io/phi182a/tags/info/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chreliot.github.io/phi182a/tags/info/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Interpreting Grades</title>
-      <link>http://chreliot.github.io/phi182a/info/interpreting-grades/</link>
+      <link>https://chreliot.github.io/phi182a/info/interpreting-grades/</link>
       <pubDate>Sun, 26 Jan 2020 19:55:28 -0400</pubDate>
       
-      <guid>http://chreliot.github.io/phi182a/info/interpreting-grades/</guid>
+      <guid>https://chreliot.github.io/phi182a/info/interpreting-grades/</guid>
       <description>This note about grading and interpreting grades just adds some detail to what the course syllabus already says about grading.
 4-point scale Grades in this course are assigned and calculated using Hofstra&amp;rsquo;s 4-point scale (described here in the Hofstra Bulletin). Following the Bulletin, the alphabetical grades, including plus (+) and minus (–), have the following 4-point scale values (and vice versa):
    letter 4pt Student’s academic performance …     A 4.</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>Participation Rubric</title>
-      <link>http://chreliot.github.io/phi182a/info/participation-rubric/</link>
+      <link>https://chreliot.github.io/phi182a/info/participation-rubric/</link>
       <pubDate>Tue, 03 Sep 2019 21:25:39 -0400</pubDate>
       
-      <guid>http://chreliot.github.io/phi182a/info/participation-rubric/</guid>
+      <guid>https://chreliot.github.io/phi182a/info/participation-rubric/</guid>
       <description>This is the participation rubric to be used for grading participation in this course. Read it as saying “A student who demonstrates … earns a grade of X,” where X is the letter grade at the top of the column.1
    A B C D F     Active role in discussions, drawing on texts Regular, constructive participation drawing on texts Inconsistent constructive participation based on texts Vague comments reflecting limited engagement with texts Persistent lack of engagement with texts   Full preparation for approximately every class Substantial preparation, normally Inconsistent evidence of preparation Rare evidence of participation No positive evidence of participation   Success at advancing level and depth of discussion, persistently Regular contributions based on assigned material, which sometimes improve discussion and never diminish it Rare or no significant contribution to the level of discussion while not reducing it Activity sometimes diminishing the discussion and the classroom environment Activity regularly diminishing the discussion and the classroom environment   Active engagement with and listening to peers, persistently Sincere efforts to interact with peers, normally Limited engagement with peers Rare interaction with peers No interaction with peers      This rubric is significantly based on, and lightly adapted from, one written by another philosophy professor, Jay Odenbaugh.</description>
     </item>
