@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>assignments on PHI 182a</title>
+    <link>http://chreliot.github.io/phi182a/tags/assignments/</link>
+    <description>Recent content in assignments on PHI 182a</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Jan 2020 19:55:28 -0400</lastBuildDate>
+    
+	<atom:link href="http://chreliot.github.io/phi182a/tags/assignments/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interpreting Grades</title>
+      <link>http://chreliot.github.io/phi182a/info/interpreting-grades/</link>
+      <pubDate>Sun, 26 Jan 2020 19:55:28 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi182a/info/interpreting-grades/</guid>
+      <description>This note about grading and interpreting grades just adds some detail to what the course syllabus already says about grading.
+4-point scale Grades in this course are assigned and calculated using Hofstra&amp;rsquo;s 4-point scale (described here in the Hofstra Bulletin). Following the Bulletin, the alphabetical grades, including plus (+) and minus (–), have the following 4-point scale values (and vice versa):
+   letter 4pt Student’s academic performance …     A 4.</description>
+    </item>
+    
+  </channel>
+</rss>
