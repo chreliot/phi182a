@@ -6,10 +6,19 @@
     <description>Recent content in Tags on PHI 182a</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2020 11:35:05 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2020 13:25:29 -0400</lastBuildDate>
     
 	<atom:link href="https://chreliot.github.io/phi182a/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>assignments</title>
+      <link>https://chreliot.github.io/phi182a/tags/assignments/</link>
+      <pubDate>Sat, 02 May 2020 13:25:29 -0400</pubDate>
+      
+      <guid>https://chreliot.github.io/phi182a/tags/assignments/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>topics</title>
@@ -17,15 +26,6 @@
       <pubDate>Sun, 29 Mar 2020 11:35:05 -0400</pubDate>
       
       <guid>https://chreliot.github.io/phi182a/tags/topics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>assignments</title>
-      <link>https://chreliot.github.io/phi182a/tags/assignments/</link>
-      <pubDate>Wed, 25 Mar 2020 14:37:19 -0400</pubDate>
-      
-      <guid>https://chreliot.github.io/phi182a/tags/assignments/</guid>
       <description></description>
     </item>
     
