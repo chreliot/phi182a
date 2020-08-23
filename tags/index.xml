@@ -1,42 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on PHI 182a</title>
-    <link>https://chreliot.github.io/phi182a/tags/</link>
-    <description>Recent content in Tags on PHI 182a</description>
+    <title>Tags on PHI 14f</title>
+    <link>https://chreliot.github.io/phi14f/tags/</link>
+    <description>Recent content in Tags on PHI 14f</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2020 13:25:29 -0400</lastBuildDate>
     
-	<atom:link href="https://chreliot.github.io/phi182a/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chreliot.github.io/phi14f/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>assignments</title>
-      <link>https://chreliot.github.io/phi182a/tags/assignments/</link>
-      <pubDate>Sat, 02 May 2020 13:25:29 -0400</pubDate>
-      
-      <guid>https://chreliot.github.io/phi182a/tags/assignments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>topics</title>
-      <link>https://chreliot.github.io/phi182a/tags/topics/</link>
-      <pubDate>Sun, 29 Mar 2020 11:35:05 -0400</pubDate>
-      
-      <guid>https://chreliot.github.io/phi182a/tags/topics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>info</title>
-      <link>https://chreliot.github.io/phi182a/tags/info/</link>
-      <pubDate>Sun, 26 Jan 2020 19:55:28 -0400</pubDate>
-      
-      <guid>https://chreliot.github.io/phi182a/tags/info/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
